@@ -1,16 +1,25 @@
-# flutter_pharma
+# AM-Pharma
 
-Project by ahmad
+This project was created as a practice project while learning flutter with firebase and sqlite.
 
-## Getting Started
+## Basic Features
 
-This project is a starting point for a Flutter application.
+1. A home screen with medicine categories
+2. An orders screen with current orders
+3. A profile screen with user profile info
+4. A login and signup page
+5. An about page to contact the developer
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Main Pages
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![main](https://github.com/malikahmadmukhtar/Flutter-pharmacy-app-using-firebase-and-sqlite/assets/158511475/a2b0c3ab-91f8-43b6-86e5-6843eaa15889)
+
+### Other Pages
+
+![secondary](https://github.com/malikahmadmukhtar/Flutter-pharmacy-app-using-firebase-and-sqlite/assets/158511475/8c7aedf7-2c0b-4baf-a05d-b34432c6c333)
+
+## Note
+
+It is the initial project in flutter so errors are expected.
