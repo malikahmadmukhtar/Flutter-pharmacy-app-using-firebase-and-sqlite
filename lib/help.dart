@@ -102,7 +102,7 @@ class Help extends StatelessWidget {
                   GestureDetector(
                     onTap: () {
                       var url =
-                          Uri.parse("https://facebook.com/mlik.malik.503");
+                          Uri.parse("https://facebook.com/yourcontacthere");
                       launchUrl(url);
                     },
                     child: Image.asset(
@@ -115,7 +115,7 @@ class Help extends StatelessWidget {
                   ),
                   GestureDetector(
                     onTap: () {
-                      var url = Uri.parse("https://wa.me/+923462369945");
+                      var url = Uri.parse("https://wa.me/yourcontacthere");
                       launchUrl(url);
                     },
                     child: Image.asset(
@@ -129,7 +129,7 @@ class Help extends StatelessWidget {
                   GestureDetector(
                     onTap: () {
                       var url =
-                          Uri.parse("https://instagram.com/ya_its_ahmad/");
+                          Uri.parse("https://instagram.com/yourcontacthere/");
                       launchUrl(url);
                     },
                     child: Image.asset(
